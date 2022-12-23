@@ -22,3 +22,12 @@
 6.HDFS NameNode is not rack aware when it places the replica blocks.
 
 - False
+
+
+
+
+
+
+
+
+
